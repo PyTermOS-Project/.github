@@ -18,7 +18,11 @@ Super fast, useful and pretty.
 ### PyTermOS Related websites
 Just websites. Nothing strange.
 ## Website map
+PyTermOS Main page: [pytermos.com](https://pytermos.com)
 
+PyTermOS 
+
+PyTerm main page: [cli.pytermos.com](https://cli.pytermos.com)
 # Sense of the project 🥸
 PyTerm was made for starters,
 
