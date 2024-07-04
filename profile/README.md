@@ -15,21 +15,24 @@ A Linux distribution for people that are learning how to use Linux systems and f
 It is powered by PyTerm and has got a CLI interface.
 
 Super fast, useful and pretty.
-### JuicePackage
-drink juice in PyTermOS using Juice.
+### JuicePackage 😃
+drink juice in PyTermOS using JuicePackage.
 
-add new flavours if this bored you.
+add new flavours if this flavour bored you.
 
 basically it's just a package manager for PyTermOS.
 
-(and macOS)
+(and macOS/Linux too)
 
 oh and it's still in development so PyTermOS is so you can contribute.
-### PyTermOS Related websites
-Just websites. Nothing strange.
-## Website map
+
+## Websites
 PyTermOS Main page: [pytermos.com](https://pytermos.com)
 
-JuicePackage Main page: [juice.pytermos.com](https://juice.pytermos.com)
+PyTermOS Documentation: [docs.pytermos.com](https://docs.pytermos.com)
+
+JuicePackage Main page: [juicepackage.site](https://juicepackage.site)
+
+JuicePackage Documentation: [doc.juicepackage.site](https://doc.juicepackage.site)
 
 PyTerm main page: [cli.pytermos.com](https://cli.pytermos.com)
